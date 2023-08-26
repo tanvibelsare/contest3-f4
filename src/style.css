@@ -1,0 +1,47 @@
+.book-card {
+    border: 1px solid #ccc;
+    
+    text-align: center;
+    background-color: #f8f8f8;
+  }
+  
+  .book-card img {
+    max-width: 100px;
+   
+  }
+  
+  
+  .book-list{
+      display: flex;
+      flex-wrap: wrap;
+     
+      padding: 50px;
+      background-color: #242121;
+      gap: 30px;
+  
+  }
+  .navbar{
+      height: 40px;
+      background-color: black;
+      padding-left: 650px;
+  }
+  .navbar input{
+      background-color: #242121;
+      color: #ccc;
+      border: none;
+      width: 500px;
+      padding-left: 10px;
+     
+  }
+  .navbar button{
+     margin-top: 10px;
+      background-color:#242121 ;
+      color: #ccc;
+    border: none;
+    margin-left: 10px;
+     
+  }
+  .App{
+      height: 100vh;
+      background-color: #242121;
+  }
